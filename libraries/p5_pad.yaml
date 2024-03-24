@@ -1,0 +1,10 @@
+name: P5_pad
+description: A simple move objects pad. For P5 projects.
+category: ui
+sourceUrl: https://github.com/MarcGam/P5_pad
+author:
+  name: Marco Gammanossi
+featuredImage:
+  url: P5_pad.png
+  altText: Logo in the sky
+license: MIT
